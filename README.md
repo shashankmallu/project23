@@ -35,5 +35,7 @@ while travelling i suggest them to feel free to talk with our health bot and kno
 <img width="918" alt="Screenshot 2023-05-24 110441" src="https://github.com/shashankmallu/project23/assets/132832026/5c59ac46-1662-4071-8b27-b2f371892e5d">
 <img width="887" alt="Screenshot 2023-05-24 115844" src="https://github.com/shashankmallu/project23/assets/132832026/3bbd4de9-2247-4657-b894-5078df585177">
 
+## Azure portal screen short
+<img width="956" alt="Screenshot 2023-05-24 120336" src="https://github.com/shashankmallu/project23/assets/132832026/73a92d81-1388-434c-9986-f1c506ab759c">
 
 
